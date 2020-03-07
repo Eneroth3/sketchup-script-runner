@@ -8,3 +8,5 @@ into proper extensions, or for loading something just for the current session.
 Don't run scripts from authors you don't trust.
 
 Requires SketchUp 2019.2 or later.
+
+Source code available at [GitHub](https://github.com/Eneroth3/sketchup-script-runner).
